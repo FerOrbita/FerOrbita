@@ -24,15 +24,15 @@
 
 
 ## Lenguajes y Herramientas
-
+<!---
 - TypeScript ![Progress](https://progress-bar.dev/90)
 - JavaScript ![Progress](https://progress-bar.dev/80)
 - HTML ![Progress](https://progress-bar.dev/70)
-- CSS ![Progress](https://progress-bar.dev/60)
+- CSS ![Progress](https://progress-bar.dev/65)
 - SQL ![Progress](https://progress-bar.dev/50)
 - RxJS ![Progress](https://progress-bar.dev/70)
 
-<!---
+
 FerOrbita/FerOrbita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
