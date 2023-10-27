@@ -1,3 +1,4 @@
+<!---
 <p align="center">
  <a href="https://www.orbitaingenieria.com/" target="blank">
   <picture>
@@ -24,7 +25,7 @@
 
 
 ## Lenguajes y Herramientas
-<!---
+
 - TypeScript ![Progress](https://progress-bar.dev/90)
 - JavaScript ![Progress](https://progress-bar.dev/80)
 - HTML ![Progress](https://progress-bar.dev/70)
