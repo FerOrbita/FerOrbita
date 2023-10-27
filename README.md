@@ -4,11 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![Órbita](https://github.com/FerOrbita/FerOrbita/blob/main/orbitaLogo.png)
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="(https://www.orbitaingenieria.com/wp/wp-content/uploads/2019/10/orbita-ingenieria-logo.svg?v=1.0.18)">
- <source media="(prefers-color-scheme: light)" srcset="https://www.orbitaingenieria.com/wp/wp-content/uploads/2019/10/orbita-ingenieria-logo.svg?v=1.0.18">
- <img alt="YOUR-ALT-TEXT" src="https://www.orbitaingenieria.com/wp/wp-content/uploads/2019/10/orbita-ingenieria-logo.svg?v=1.0.18">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FerOrbita/FerOrbita/blob/main/orbitaLogo.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/FerOrbita/FerOrbita/blob/main/orbitaLogo.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/FerOrbita/FerOrbita/blob/main/orbitaLogo.png">
 </picture>
 
 <!---
